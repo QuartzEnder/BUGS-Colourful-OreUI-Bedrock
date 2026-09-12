@@ -22,9 +22,9 @@ Add screenshots to help explain your problem.
 
 **Debug info**
 Please list here these info:
-- UI layout setting (either Pocket UI or Classic UI
+- UI layout setting (either Pocket UI or Classic UI)
 - input type (touch, controller, or keyboard and mouse)
-- pack setting subpack (light or dark mode). By omitting this I'll assume it's the dark mode
+- pack setting subpack (full features or vanilla hud). By omitting this I'll assume it's the full features subpack.
 
 **Additional context**
 Add any other context about the problem here.
